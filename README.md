@@ -183,7 +183,6 @@ To run the tests run:
 ```sh
 bazel test //py:test-<browsername>
 ```
-
 If you add `--//common:pin_browsers` it will download the browsers and drivers for you to use.
   
 To install locally run:
