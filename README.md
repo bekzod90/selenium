@@ -412,7 +412,7 @@ Bazelisk is a Mac-friendly launcher for Bazel. To install, follow these steps:
 brew tap bazelbuild/tap && \
 brew uninstall bazel; \
 brew install bazelbuild/tap/bazelisk
-```
+``
 
 #### Xcode
 
