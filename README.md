@@ -191,7 +191,7 @@ To install locally run:
 ```sh
 bazel build //py:selenium-wheel
 pip install bazel-bin/py/selenium-*.whl
-```
+``
 
 To publish run:
 
