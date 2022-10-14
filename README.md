@@ -221,7 +221,6 @@ To build the .NET code run:
 ```sh
 bazel build //dotnet/...
 ```
-
 Also
 ```sh
 bazel build //dotnet/test/common:chrome
