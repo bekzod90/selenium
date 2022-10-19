@@ -432,7 +432,6 @@ need to redirect the Xcode system to the correct value.
 sudo xcode-select -s /Applications/Xcode.app/Contents/Developer/
 sudo xcodebuild -license
 ```
-
 The first command will prompt you for a password. The second step requires you to read a new Xcode
 license, and then accept it by typing "agree".
 
