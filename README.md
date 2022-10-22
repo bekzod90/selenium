@@ -158,7 +158,6 @@ To run the tests run:
 ```sh
 bazel test //javascript/node/selenium-webdriver:tests
 ```
-
 You can pass in the environment variable `SELENIUM_BROWSER` with the name of the browser.
 
 To publish to NPM run:
