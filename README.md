@@ -119,7 +119,7 @@ If you want to test you can run then you can do so by running the following comm
 
 ```sh
 bazel test //java/... --test_size_filters=small,medium,large --test_tag_filters=<browser>
-```
+``
 
 The `test_size_filters` argument takes small, medium, large. Small are akin to unit tests,
 Medium is akin to integration tests, and large is akin to end-to-end tests.
