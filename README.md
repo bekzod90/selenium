@@ -21,7 +21,6 @@ Selenium's source code is made available under the [Apache 2.0 license](https://
 ## Documentation
 
 Narrative documentation:
-
 * [User Manual](https://selenium.dev/documentation/)
 
 API documentation:
