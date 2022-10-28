@@ -154,7 +154,6 @@ bazel build //javascript/node/selenium-webdriver
 ```
 
 To run the tests run:
-
 ```sh
 bazel test //javascript/node/selenium-webdriver:tests
 ```
